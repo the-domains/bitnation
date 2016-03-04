@@ -4,7 +4,7 @@
         <description><![CDATA[Bitnation]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 21:01:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/bitnation/34e10048-adaf-448d-bb7a-b5cebee4819a/index.html</link>
             <guid isPermaLink="false">34e10048-adaf-448d-bb7a-b5cebee4819a</guid>
             <pubDate>Fri, 04 Mar 2016 20:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>‪BITNATION‬ just enabled another service: BITNATION OPPORTUNITIES NETWORK (BON), to post and apply for jobs within tech and DIY Gov 2.0 with a special focus on 'disruptive technologies like everything Bitcoin/ Blockchain related, Drones, Machine Learning (AI), Robotics, Governance 2.0, and VR/ AR Applications.</p>]]></description>
-            <link>https://thegrid.ai/bitnation/5919e628-a099-40bd-a6e7-1b19b0f0fb4a/index.html</link>
-            <guid isPermaLink="false">5919e628-a099-40bd-a6e7-1b19b0f0fb4a</guid>
-            <pubDate>Fri, 04 Mar 2016 20:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
