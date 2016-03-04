@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://singularityhub.com/2016/02/16/how-ownerless-firms-will-soon-live-on-the-blockchain/'
 title: 'In the Future, Ownerless Companies Will Live on the Blockchain - Singularity HUB'
-datePublished: '2016-03-04T22:52:08.986Z'
-dateModified: '2016-03-04T22:51:59.628Z'
+datePublished: '2016-03-04T23:49:43.120Z'
+dateModified: '2016-03-04T23:49:28.580Z'
 sourcePath: _posts/2016-03-04-in-the-future-ownerless-companies-will-live-on-the-blockcha.md
 published: true
 inFeed: true
