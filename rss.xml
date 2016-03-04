@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 21:02:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Times</p>]]></description>
+            <link>https://thegrid.ai/bitnation/times/index.html</link>
+            <guid isPermaLink="false">fad4b7b8-7696-473e-bccf-f826488a542e</guid>
+            <pubDate>Fri, 04 Mar 2016 21:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BITNATION just enabled another service: BITNATION OPPORTUNITIES NETWORK (BON), to post and apply for jobs within tech and DIY Gov 2.0 (with a special...</p>]]></description>
