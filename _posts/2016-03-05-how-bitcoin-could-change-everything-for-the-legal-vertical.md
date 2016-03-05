@@ -17,8 +17,8 @@ keywords:
   - bitcoin
   - ownership
 description: 'The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. '
-datePublished: '2016-03-05T01:10:53.397Z'
-dateModified: '2016-03-05T01:10:44.139Z'
+datePublished: '2016-03-05T01:12:15.382Z'
+dateModified: '2016-03-05T01:11:03.989Z'
 author: []
 related: []
 app_links: []
