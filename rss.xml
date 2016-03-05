@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 01:15:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Bitcoin Could Change Everything for the Legal Vertical]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>By Mick Erlandson and Jude Soundar The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx"></article>]]></description>
+            <link>http://www.channelpartnersonline.com/blogs/peertopeer/2016/03/how-bitcoin-could-change-everything-for-the-legal.aspx</link>
+            <guid isPermaLink="false">77c7fb97-5854-4153-b85a-f39b1d22645a</guid>
+            <pubDate>Sat, 05 Mar 2016 01:14:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Bitcoin Could Change Everything for the Legal Vertical]]></title>
             <description><![CDATA[<article><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://web.archive.org/web/20141028040335/http://www.bitnation.co/themes/bitnation/images/backgrounds/main_page_v3.jpg</link>
             <guid isPermaLink="false">525f9eef-c64a-4f43-97e1-63ed655d409f</guid>
             <pubDate>Sat, 05 Mar 2016 00:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>There are many ways by which you can join BITNATION and contribute to our success. Become a world citizen, join as an ally or share your space.</p>]]></description>
-            <link>https://www.facebook.com/337620226422880/posts/501424050042496</link>
-            <guid isPermaLink="false">544b44a4-7c1e-4cb2-b2b5-8baa30db37fa</guid>
-            <pubDate>Fri, 04 Mar 2016 21:09:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
