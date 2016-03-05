@@ -16,23 +16,23 @@ keywords:
   - cost
   - bitcoin
   - ownership
-description: 'The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. '
-datePublished: '2016-03-05T01:12:15.382Z'
-dateModified: '2016-03-05T01:11:03.989Z'
+description: By Mick Erlandson and Jude Soundar The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.
+datePublished: '2016-03-05T01:14:24.232Z'
+dateModified: '2016-03-05T01:14:12.805Z'
 author: []
 related: []
 app_links: []
 title: How Bitcoin Could Change Everything for the Legal Vertical
-sourcePath: _posts/2016-03-05-how-bitcoin-could-change-everything-for-the-legal-vertical.md
-published: true
 authors: []
 publisher:
   name: Channelpartnersonline
   domain: www.channelpartnersonline.com
   url: 'http://www.channelpartnersonline.com'
   favicon: 'http://www.channelpartnersonline.com/site_files/pho/favicon.ico'
+sourcePath: _posts/2016-03-05-how-bitcoin-could-change-everything-for-the-legal-vertical.md
+published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx" /></article>
+<article style=""><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>By Mick Erlandson and Jude Soundar The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary&amp;period;</p><img src="http://www.channelpartnersonline.com/~/media/30BACEF11EE0478E81CCFAC3C947DF4D.ashx" /></article>
