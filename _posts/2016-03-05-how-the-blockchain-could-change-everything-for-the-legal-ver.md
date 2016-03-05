@@ -17,8 +17,8 @@ keywords:
   - bitcoin
   - ownership
 description: 'In the future, we may see disputes over assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain.'
-datePublished: '2016-03-05T01:57:21.411Z'
-dateModified: '2016-03-05T01:57:18.878Z'
+datePublished: '2016-03-05T02:49:52.432Z'
+dateModified: '2016-03-05T02:49:33.497Z'
 author: []
 related: []
 app_links: []
