@@ -17,8 +17,8 @@ keywords:
   - bitcoin
   - ownership
 description: 'In the future, we may see disputes over assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain.'
-datePublished: '2016-03-05T01:56:22.168Z'
-dateModified: '2016-03-05T01:54:49.606Z'
+datePublished: '2016-03-05T01:57:21.411Z'
+dateModified: '2016-03-05T01:57:18.878Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b314ea3-f9de-40eb-98b9-b5c2e1c37fd7.jpg)
-
 <article style=""><h1>How the Blockchain Could Change Everything for the Legal Vertical</h1><p>In the future, we may see disputes over assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx" /></article>
