@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 00:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:04:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain and its applications - London Business Society]]></title>
+            <description><![CDATA[<article><h1>Blockchain and its applications - London Business Society</h1><p>Blockchains are distributed, immutable ledgers that can be used to store all sorts of transactions on a peer-to-peer network. Think of it as a chain of sliced pieces of any information, which will give you sense only when they are all combined together. The first blockchain use was Bitcoin since 2009, and for ca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d83f317b84d56579f65b2871f07bf466451d60b.jpg"></article>]]></description>
+            <link>http://londonbusinesssociety.co.uk/blockchain-and-its-applications/</link>
+            <guid isPermaLink="false">729be8e0-f4db-4423-a8c5-ef147e6358b2</guid>
+            <pubDate>Sat, 05 Mar 2016 00:03:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Blockchain the most important IT invention of our age? | John Naughton]]></title>
             <description><![CDATA[<article><h1>Is Blockchain the most important IT invention of our age? | John Naughton</h1><p>There are not many occasions when one can give an unqualified thumbs-up to something the government does, but this is one such occasion. Last week, Sir Mark Walport, the government's chief scientific adviser, published a report with the forbidding title Distributed Ledger Technology: Beyond Block Chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7dd0e5e48e033040dc3dea21659557685c6d436.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://100.fintech.nl/bitnation</link>
             <guid isPermaLink="false">4c1c7839-57f1-4ca2-ad27-56e89671b46c</guid>
             <pubDate>Fri, 04 Mar 2016 21:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Estonian Government and Bitnation Begin Cooperation - e-Estonia]]></title>
-            <description><![CDATA[<article><h1>Estonian Government and Bitnation Begin Cooperation - e-Estonia</h1><p>Bitnation, the decentralized governance project which offers blockchain IDs and Bitcoin debit cards to refugees, is now collaborating with Estonia to offer a Public Notary to Estonian e-Residents.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df6798b64c59cfa9385391c958e334697aa597a3.jpg"></article>]]></description>
-            <link>https://e-estonia.com/estonian-government-and-bitnation-begin-cooperation/</link>
-            <guid isPermaLink="false">2708e48b-746b-41ac-8f18-6ee60bcf0b1a</guid>
-            <pubDate>Fri, 04 Mar 2016 21:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
