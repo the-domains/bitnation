@@ -17,8 +17,8 @@ keywords:
   - technology
   - applications
 description: 'La versione italiana di questo documento è disponibile al seguente link: http://ssrn.com/abstract=2731132 The co'
-datePublished: '2016-03-05T02:41:06.797Z'
-dateModified: '2016-03-05T02:40:58.109Z'
+datePublished: '2016-03-05T02:43:23.647Z'
+dateModified: '2016-03-05T02:43:07.675Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Blockchain Technology and Decentralized Governance: Is the State Still Necessary? </h1><p>This paper aims to fill this gap and it discusses the key points of blockchain-based decentralized governance, which challenges to varying degrees the traditional mechanisms of State authority, citizenship and democracy. In particular, the paper verifies to which extent blockchain and decentralized platforms can be considered as hyper-political tools, capable to manage social interactions on large scale and dismiss traditional central authorities. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a60f5bfdaf15a7a293bd01a8a81762c333ba2b1.png" /></article>
+<article style=""><h1>Blockchain Technology and Decentralized Governance: Is the State Still Necessary? </h1><p>This paper aims to fill this gap and it discusses the key points of blockchain-based decentralized governance, which challenges to varying degrees the traditional mechanisms of State authority, citizenship and democracy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a60f5bfdaf15a7a293bd01a8a81762c333ba2b1.png" /></article>
