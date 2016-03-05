@@ -4,11 +4,18 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:04:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Is Blockchain the most important IT invention of our age? | John Naughton]]></title>
+            <description><![CDATA[<article><h1>Is Blockchain the most important IT invention of our age? | John Naughton</h1><p>There are not many occasions when one can give an unqualified thumbs-up to something the government does, but this is one such occasion. Last week, Sir Mark Walport, the government's chief scientific adviser, published a report with the forbidding title Distributed Ledger Technology: Beyond Block Chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7dd0e5e48e033040dc3dea21659557685c6d436.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/commentisfree/2016/jan/24/blockchain-bitcoin-technology-most-important-tech-invention-of-our-age-sir-mark-walport</link>
+            <guid isPermaLink="false">9b8f605c-6e49-4c27-a34e-f6bd1ead942a</guid>
+            <pubDate>Sat, 05 Mar 2016 00:03:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In the Future, Ownerless Companies Will Live on the Blockchain - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>In the Future, Ownerless Companies Will Live on the Blockchain - Singularity HUB</h1><p>13,341 11 Among niche groups of computer scientists, the buzz surrounding blockchain has reached levels normally designated for Elon Musk. The technology is in its early and technically complicated stage of development, but experts say it's poised to transform global commerce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36b0a3b71a2ce4adfcb6cf3d6696848e24195d29.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>In the Future, Ownerless Companies Will Live on the Blockchain - Singularity HUB</h1><p>13,341 11 Among niche groups of computer scientists, the buzz surrounding blockchain has reached levels normally designated for Elon Musk. The technology is in its early and technically complicated stage of development, but experts say it's poised to transform global commerce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6f916d6b94e7fcd164045c6c479edfd9f765ee9.jpg"></article>]]></description>
             <link>http://singularityhub.com/2016/02/16/how-ownerless-firms-will-soon-live-on-the-blockchain/</link>
             <guid isPermaLink="false">8598992d-e6b8-4f97-8648-8acb510beaaf</guid>
             <pubDate>Fri, 04 Mar 2016 23:49:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://e-estonia.com/estonian-government-and-bitnation-begin-cooperation/</link>
             <guid isPermaLink="false">2708e48b-746b-41ac-8f18-6ee60bcf0b1a</guid>
             <pubDate>Fri, 04 Mar 2016 21:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Does a BitNation exist on the Blockchain?]]></title>
-            <description><![CDATA[<article><h1>How Does a BitNation exist on the Blockchain?</h1><p>Toni Lane Casserly, Bitnation - Governance 2.0 Civic Tech Showcase Presentation. Bitnation provides the same services traditional governments provides, from dispute resolution and insurance to security and much more. Innovate Your State's Civic Tech Showcase 10/28/15 www.innovateyourstate.org/sign_up</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea3dccc347c9944fc8615bf23c1dcd4ce7b3d5e8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=eYrsGpO2uCw</link>
-            <guid isPermaLink="false">0119fcb3-48e1-4a77-a0f4-5c7b22e527d9</guid>
-            <pubDate>Fri, 04 Mar 2016 21:02:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
