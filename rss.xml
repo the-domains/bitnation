@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 00:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:52:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-amt2-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12742083_10156517167085527_8758047122971124317_n.jpg?oh=28f6d136a1639a3514be50e96ea544a9&oe=5756A911">]]></description>
+            <link>https://thegrid.ai/bitnation/cba53eca-74a3-48f6-9e7a-67a28208a32f/index.html</link>
+            <guid isPermaLink="false">cba53eca-74a3-48f6-9e7a-67a28208a32f</guid>
+            <pubDate>Sat, 05 Mar 2016 00:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our talk at Google Campus London on the (Humanitarian) Blockchain. Thanks to the London Business Society & Bitnation for a successful organization/event.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/337620226422880/posts/501424050042496</link>
             <guid isPermaLink="false">544b44a4-7c1e-4cb2-b2b5-8baa30db37fa</guid>
             <pubDate>Fri, 04 Mar 2016 21:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitnation launches Decentralised Borderless Voluntary Nation Constitution with Ethereum]]></title>
-            <description><![CDATA[<article><h1>Bitnation launches Decentralised Borderless Voluntary Nation Constitution with Ethereum</h1><p>Bitnation, the blockchain-based system of notarisation and personal sovereignty, has launched its Decentralised Borderless Voluntary Nation (DBVN) Constitution using Ethereum. Ethereum offers anyone the chance to establish their own democratic autonomous organisation (DAO), making it a good match for Bitnation, which is taking that idea to another level yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45aa644b28b8def2ea191267644e1768fda8315d.png"></article>]]></description>
-            <link>http://www.ibtimes.co.uk/bitnation-launches-decentralised-borderless-virtual-nation-constitution-ethereum-1544431</link>
-            <guid isPermaLink="false">82b6c67d-4dd7-4a26-b009-64cb01e77d66</guid>
-            <pubDate>Fri, 04 Mar 2016 21:08:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
