@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2709713'
 title: 'Blockchain Technology and Decentralized Governance: Is the State Still Necessary? by Marcella Atzori :: SSRN'
-datePublished: '2016-03-05T02:37:02.759Z'
-dateModified: '2016-03-05T02:36:04.363Z'
+datePublished: '2016-03-05T02:37:49.370Z'
+dateModified: '2016-03-05T02:37:31.346Z'
 sourcePath: _posts/2016-03-05-blockchain-technology-and-decentralized-governance-is-the-s.md
 published: true
 inFeed: true
