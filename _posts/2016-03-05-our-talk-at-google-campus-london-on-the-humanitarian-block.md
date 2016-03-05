@@ -11,8 +11,8 @@ description: 'Our talk at Google Campus London on the (Humanitarian) Blockchain.
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/photo.php?fbid=10156517167085527&set=a.10151349337885527.812792.720975526&type=3'
-datePublished: '2016-03-05T00:49:45.851Z'
-dateModified: '2016-03-05T00:49:34.520Z'
+datePublished: '2016-03-05T00:55:08.804Z'
+dateModified: '2016-03-05T00:54:56.640Z'
 sourcePath: _posts/2016-03-05-our-talk-at-google-campus-london-on-the-humanitarian-block.md
 published: true
 inFeed: true
