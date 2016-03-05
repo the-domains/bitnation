@@ -4,11 +4,18 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 02:36:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Estonian e-Residency and BitNation launch new Public Notary in 'Blockchain Jurisdiction']]></title>
+            <description><![CDATA[<article><h1>Estonian e-Residency and BitNation launch new Public Notary in 'Blockchain Jurisdiction'</h1><p>The Estonian e-Residency program in collaboration with BITNATION are launching a new Public Notary using Blockchain technology to e-Residents valid in 'blockchain jurisdiction'. The World Blockchain media outlet, CoinTelegraph, investigated what is at the roots of this project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfb6ea99ff6f06fcd8f3474eae4f4775dec4c9f6.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/estonian-e-residency-and-bitnation-launch-new-public-notary-in-blockchain-jurisdiction</link>
+            <guid isPermaLink="false">c99d67cc-376b-40dd-b13a-09dc9e57397d</guid>
+            <pubDate>Sat, 05 Mar 2016 02:36:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government urged to use Bitcoin-style digital ledgers - BBC News]]></title>
-            <description><![CDATA[<article><h1>Government urged to use Bitcoin-style digital ledgers - BBC News</h1><p>The UK's chief scientific adviser has urged the government to adopt the technology that powers crypto-currency Bitcoin to run various public services. Bitcoins are powered by blockchains - digital ledgers that record information from Bitcoin transactions to DNA. Sir Mark Walport has argued that they could be used by government departments as a more secure way of managing data.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/040D/production/_87773010_gettyimages-473042242.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Government urged to use Bitcoin-style digital ledgers - BBC News</h1><p>The UK's chief scientific adviser has urged the government to adopt the technology that powers crypto-currency Bitcoin to run various public services. Bitcoins are powered by blockchains - digital ledgers that record information from Bitcoin transactions to DNA. Sir Mark Walport has argued that they could be used by government departments as a more secure way of managing data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/410c180e9b681177ea6ecc43763b25fd0fe322f1.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/technology-35344843</link>
             <guid isPermaLink="false">a4b42b2e-8998-4925-ad9e-70e6616ef2ca</guid>
             <pubDate>Sat, 05 Mar 2016 02:34:25 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.unrisd.org/80256B3C005BCCF9/search/196AEF663B617144C1257F550057887C?OpenDocument</link>
             <guid isPermaLink="false">b01dc18e-8513-45ea-b0d3-baa2ce5d7b2f</guid>
             <pubDate>Sat, 05 Mar 2016 01:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitnation Launches World's First Blockchain-Based Virtual Nation Constitution]]></title>
-            <description><![CDATA[<article><h1>Bitnation Launches World's First Blockchain-Based Virtual Nation Constitution</h1><p>Bitnation, a blockchain-based "Governance 2.0" initiative with a collaborative platform for DIY governance, has launched its Decentralised Borderless Voluntary Nation (DBVN) Constitution using Ethereum, International Business Times reports . The Bitnation Constitution was launched at a public event in Rio de Janeiro, hosted by Bitnation founder Susanne Tarkowski Tempelhof and Alex Van de Sande, lead designer at the Ethereum Foundation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d857541543d09ac7b2f2a0b4703b932da61bdaf0.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitnation-launches-worlds-first-blockchain-based-virtual-nation-constitution-cm584980</link>
-            <guid isPermaLink="false">a49e7702-b31d-42f3-88e7-41010b212523</guid>
-            <pubDate>Fri, 04 Mar 2016 22:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
