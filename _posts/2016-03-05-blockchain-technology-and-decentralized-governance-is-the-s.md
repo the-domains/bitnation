@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://papers.ssrn.com'
-  name: Ssrn
-  favicon: 'http://papers.ssrn.com/favicon.ico'
-  domain: papers.ssrn.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2709713'
+inLanguage: en
+starred: false
 keywords:
   - decentralized
   - blockchain
@@ -18,19 +17,22 @@ keywords:
   - technology
   - applications
 description: 'La versione italiana di questo documento è disponibile al seguente link: http://ssrn.com/abstract=2731132 The co'
-inLanguage: en
+datePublished: '2016-03-05T02:41:06.797Z'
+dateModified: '2016-03-05T02:40:58.109Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2709713'
 title: 'Blockchain Technology and Decentralized Governance: Is the State Still Necessary? by Marcella Atzori :: SSRN'
-datePublished: '2016-03-05T02:37:49.370Z'
-dateModified: '2016-03-05T02:37:31.346Z'
 sourcePath: _posts/2016-03-05-blockchain-technology-and-decentralized-governance-is-the-s.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Ssrn
+  domain: papers.ssrn.com
+  url: 'http://papers.ssrn.com'
+  favicon: 'http://papers.ssrn.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Blockchain Technology and Decentralized Governance&amp;colon; Is the State Still Necessary&amp;quest; by Marcella Atzori &amp;colon;&amp;colon; SSRN</h1><p>La versione italiana di questo documento è disponibile al seguente link&amp;colon; http&amp;colon;&amp;sol;&amp;sol;ssrn&amp;period;com&amp;sol;abstract&amp;equals;2731132 The co</p><img src="http://papers.ssrn.com/sol3/images/iSSRN_a.png" /></article>
+<article style=""><h1>Blockchain Technology and Decentralized Governance: Is the State Still Necessary? </h1><p>This paper aims to fill this gap and it discusses the key points of blockchain-based decentralized governance, which challenges to varying degrees the traditional mechanisms of State authority, citizenship and democracy. In particular, the paper verifies to which extent blockchain and decentralized platforms can be considered as hyper-political tools, capable to manage social interactions on large scale and dismiss traditional central authorities. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a60f5bfdaf15a7a293bd01a8a81762c333ba2b1.png" /></article>
