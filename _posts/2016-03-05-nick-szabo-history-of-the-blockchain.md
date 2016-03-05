@@ -14,8 +14,8 @@ description: 'source: Devcon1 - Ethereum Developer Conference - DAY5 https://www
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YpSeOU1VVj4'
 title: Nick Szabo - History of the Blockchain
-datePublished: '2016-03-05T02:22:19.479Z'
-dateModified: '2016-03-05T02:22:07.753Z'
+datePublished: '2016-03-05T02:34:10.296Z'
+dateModified: '2016-03-05T02:33:43.416Z'
 sourcePath: _posts/2016-03-05-nick-szabo-history-of-the-blockchain.md
 published: true
 inFeed: true
