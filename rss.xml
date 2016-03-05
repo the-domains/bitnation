@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 00:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:50:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our talk at Google Campus London on the (Humanitarian) Blockchain. Thanks to the London Business Society & Bitnation for a successful organization/event.</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10156517167085527&amp;set=a.10151349337885527.812792.720975526&amp;type=3</link>
+            <guid isPermaLink="false">8cd45ac6-b776-4b98-a6c5-143bfe1a3ac5</guid>
+            <pubDate>Sat, 05 Mar 2016 00:49:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain and its applications - London Business Society]]></title>
             <description><![CDATA[<article><h1>Blockchain and its applications - London Business Society</h1><p>Blockchains are distributed, immutable ledgers that can be used to store all sorts of transactions on a peer-to-peer network. Think of it as a chain of sliced pieces of any information, which will give you sense only when they are all combined together. The first blockchain use was Bitcoin since 2009, and for ca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d83f317b84d56579f65b2871f07bf466451d60b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.ibtimes.co.uk/bitnation-launches-decentralised-borderless-virtual-nation-constitution-ethereum-1544431</link>
             <guid isPermaLink="false">82b6c67d-4dd7-4a26-b009-64cb01e77d66</guid>
             <pubDate>Fri, 04 Mar 2016 21:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vote Bitnation for the #Top100 European #FinTech Awards 2016]]></title>
-            <description><![CDATA[<article><h1>Vote Bitnation for the #Top100 European #FinTech Awards 2016</h1><p>BITNATION is a decentralized, open-source movement, powered by the Bitcoin blockchain 2.0 technology, in an attempt to foster a peer-to-peer voluntary governance system, rather than the current 'top-down', 'one-size-fits-all' model, restrained by the current nation-state engineered geographical apartheid, where your quality of life is defined by where you were arbitrarily born.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/606c7be922e94a6a0fc1a67b31505c4340e2cc90.png"></article>]]></description>
-            <link>http://100.fintech.nl/bitnation</link>
-            <guid isPermaLink="false">4c1c7839-57f1-4ca2-ad27-56e89671b46c</guid>
-            <pubDate>Fri, 04 Mar 2016 21:06:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
