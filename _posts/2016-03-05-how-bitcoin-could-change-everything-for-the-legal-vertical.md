@@ -16,9 +16,9 @@ keywords:
   - cost
   - bitcoin
   - ownership
-description: By Mick Erlandson and Jude Soundar The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.
-datePublished: '2016-03-05T01:03:53.387Z'
-dateModified: '2016-03-05T01:03:50.988Z'
+description: 'The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. '
+datePublished: '2016-03-05T01:07:06.269Z'
+dateModified: '2016-03-05T01:06:03.088Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>By Mick Erlandson and Jude Soundar The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary&amp;period;</p><img src="http://www.channelpartnersonline.com/~/media/30BACEF11EE0478E81CCFAC3C947DF4D.ashx" /></article>
+<article style=""><h1>How Bitcoin Could Change Everything for the Legal Vertical</h1><p>The technology behind Bitcoin and the blockchain ledger already allows an individual to place assets in digital escrow or distribution and investment vehicles with just a few clicks - and without the need for an institutional intermediary.  In the future, we may see disputes over these assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx" /></article>
