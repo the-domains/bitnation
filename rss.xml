@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 18:20:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's]]></title>
+            <description><![CDATA[<article><h1>Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's</h1><p>All of this work is still very early. The first full public version of the Ethereum software was recently released, and the system could face some of the same technical and legal problems that have tarnished Bitcoin. Many Bitcoin advocates say Ethereum will face more security problems than Bitcoin because of the greater complexity of the software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/709573cb6524cfdd587873751e7d3f12581268ca.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/03/28/business/dealbook/ethereum-a-virtual-currency-enables-transactions-that-rival-bitcoins.html?_r=0</link>
+            <guid isPermaLink="false">c83f8276-3c6f-4321-8e40-50f2fed327e0</guid>
+            <pubDate>Mon, 28 Mar 2016 18:19:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow]]></title>
             <description><![CDATA[<article><h1>Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow</h1><p>The recent rise of Ethereum has brought a wave of new users and enthusiasm into its possible applications. While smart contracts and their benefits are nothing new to the community one of the more disruptive use cases, DAOs have not been explored to the extent they deserve.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58dd7934bb332b9419a1c9e92d8455d7f7edfcae.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/photo.php?fbid=10156517167085527&amp;set=a.10151349337885527.812792.720975526&amp;type=3</link>
             <guid isPermaLink="false">b29ecf77-534c-4105-86da-d9f02ca0c026</guid>
             <pubDate>Sat, 05 Mar 2016 00:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain and its applications - London Business Society]]></title>
-            <description><![CDATA[<article><h1>Blockchain and its applications - London Business Society</h1><p>Blockchains are distributed, immutable ledgers that can be used to store all sorts of transactions on a peer-to-peer network. Think of it as a chain of sliced pieces of any information, which will give you sense only when they are all combined together. The first blockchain use was Bitcoin since 2009, and for ca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d83f317b84d56579f65b2871f07bf466451d60b.jpg"></article>]]></description>
-            <link>http://londonbusinesssociety.co.uk/blockchain-and-its-applications/</link>
-            <guid isPermaLink="false">729be8e0-f4db-4423-a8c5-ef147e6358b2</guid>
-            <pubDate>Sat, 05 Mar 2016 00:03:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
