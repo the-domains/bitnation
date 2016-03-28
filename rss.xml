@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 18:13:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitnation - The virtual country | Shift]]></title>
+            <description><![CDATA[<article><h1>Bitnation - The virtual country | Shift</h1><p>Online activists have founded a virtual state called Bitnation. The decentralized organization is designed as an alternative to traditional states. There are no limits, and a wide range of options. More from this edition of Shift: http://www.dw.com/en/shift-living-in-the-digital-age-2016-03-14/e-19073006-9798</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63e5c8c1891f686ceba9327f00952af95c541b25.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=H8kuqobIHDs</link>
+            <guid isPermaLink="false">a55e18aa-53cb-4769-a953-d45a9e9c54a7</guid>
+            <pubDate>Mon, 28 Mar 2016 18:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Technology and Decentralized Governance: Is the State Still Necessary? by Marcella Atzori :: SSRN]]></title>
             <description><![CDATA[<article><h1>Blockchain Technology and Decentralized Governance: Is the State Still Necessary? by Marcella Atzori :: SSRN</h1><p>This paper aims to fill this gap and it discusses the key points of blockchain-based decentralized governance, which challenges to varying degrees the traditional mechanisms of State authority, citizenship and democracy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a60f5bfdaf15a7a293bd01a8a81762c333ba2b1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://singularityhub.com/2016/02/16/how-ownerless-firms-will-soon-live-on-the-blockchain/</link>
             <guid isPermaLink="false">8598992d-e6b8-4f97-8648-8acb510beaaf</guid>
             <pubDate>Fri, 04 Mar 2016 23:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Attended the First Official Digital Wedding]]></title>
-            <description><![CDATA[<article><h1>I Attended the First Official Digital Wedding</h1><p>I just attended the strangest wedding: The whole world was invited, and it went almost without a hitch. Starting Tuesday, the government of Estonia, in a partnership with an organization called Bitnation, is offering public notary services to Estonian e-residents.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd99c3804102a004a6f6f5b3544781974e90eab2.jpg"></article>]]></description>
-            <link>http://www.bloombergview.com/articles/2015-12-01/i-attended-the-first-official-digital-wedding</link>
-            <guid isPermaLink="false">c3d11615-cf57-485b-ac65-db7a216decd1</guid>
-            <pubDate>Fri, 04 Mar 2016 23:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
