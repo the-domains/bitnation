@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 18:28:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BITNATION Bitcoin Hardwallets from Cryptosteel are ready!</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10153549444356417&amp;set=a.10150427020411417.345702.722051416&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">c11e1f82-530c-41ae-b65c-4f26db5b641b</guid>
+            <pubDate>Mon, 28 Mar 2016 18:28:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's]]></title>
             <description><![CDATA[<article><h1>Ethereum, a Virtual Currency, Enables Transactions That Rival Bitcoin's</h1><p>All of this work is still very early. The first full public version of the Ethereum software was recently released, and the system could face some of the same technical and legal problems that have tarnished Bitcoin. Many Bitcoin advocates say Ethereum will face more security problems than Bitcoin because of the greater complexity of the software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/709573cb6524cfdd587873751e7d3f12581268ca.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.channelpartnersonline.com/blogs/peertopeer/2016/03/how-bitcoin-could-change-everything-for-the-legal.aspx</link>
             <guid isPermaLink="false">9aaadb2c-fdb3-44b5-8f82-2e75ef5c9df0</guid>
             <pubDate>Sat, 05 Mar 2016 02:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Our talk at Google Campus London on the (Humanitarian) Blockchain. Thanks to the London Business Society & Bitnation for a successful organization/event.</p>]]></description>
-            <link>https://www.facebook.com/photo.php?fbid=10156517167085527&amp;set=a.10151349337885527.812792.720975526&amp;type=3</link>
-            <guid isPermaLink="false">b29ecf77-534c-4105-86da-d9f02ca0c026</guid>
-            <pubDate>Sat, 05 Mar 2016 00:55:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
