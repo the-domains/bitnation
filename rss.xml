@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 18:16:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow]]></title>
+            <description><![CDATA[<article><h1>Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow</h1><p>The recent rise of Ethereum has brought a wave of new users and enthusiasm into its possible applications. While smart contracts and their benefits are nothing new to the community one of the more disruptive use cases, DAOs have not been explored to the extent they deserve.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58dd7934bb332b9419a1c9e92d8455d7f7edfcae.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/decentralized-autonomous-organizations-ethereum-sparks-up-googles-of-tomorrow</link>
+            <guid isPermaLink="false">90ab3ab8-bd9b-4af0-a370-eb590c0d7007</guid>
+            <pubDate>Mon, 28 Mar 2016 18:16:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM Urges Government to Adopt Blockchain Technologies]]></title>
             <description><![CDATA[<article><h1>IBM Urges Government to Adopt Blockchain Technologies</h1><p>On March 16, 2016, Jerry Cuomo, IBM Fellow and Vice President of Blockchain Technologies was asked to testify on a panel before the United States Government House Energy and Commerce Subcommittee on Commerce, Manufacturing & Trade. For more on IBM's involvement with blockchain, go to: ibm.com/blockchain. The subcommittee was looking into disruptive technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbc3e9f4cfe4647f35c96345592e9d1af58cfc2b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Blockchain and its applications - London Business Society</h1><p>Blockchains are distributed, immutable ledgers that can be used to store all sorts of transactions on a peer-to-peer network. Think of it as a chain of sliced pieces of any information, which will give you sense only when they are all combined together. The first blockchain use was Bitcoin since 2009, and for ca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d83f317b84d56579f65b2871f07bf466451d60b.jpg"></article>]]></description>
             <link>http://londonbusinesssociety.co.uk/blockchain-and-its-applications/</link>
             <guid isPermaLink="false">729be8e0-f4db-4423-a8c5-ef147e6358b2</guid>
-            <pubDate>Sat, 05 Mar 2016 00:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Blockchain the most important IT invention of our age? | John Naughton]]></title>
-            <description><![CDATA[<article><h1>Is Blockchain the most important IT invention of our age? | John Naughton</h1><p>There are not many occasions when one can give an unqualified thumbs-up to something the government does, but this is one such occasion. Last week, Sir Mark Walport, the government's chief scientific adviser, published a report with the forbidding title Distributed Ledger Technology: Beyond Block Chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7dd0e5e48e033040dc3dea21659557685c6d436.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/commentisfree/2016/jan/24/blockchain-bitcoin-technology-most-important-tech-invention-of-our-age-sir-mark-walport</link>
-            <guid isPermaLink="false">9b8f605c-6e49-4c27-a34e-f6bd1ead942a</guid>
             <pubDate>Sat, 05 Mar 2016 00:03:31 GMT</pubDate>
         </item>
     </channel>
