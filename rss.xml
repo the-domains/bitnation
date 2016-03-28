@@ -4,8 +4,15 @@
         <description><![CDATA[Bitnation Magazine]]></description>
         <link>https://thegrid.ai/bitnation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 18:46:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitnation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Proof-of-Individuality (POI) protocol is a fully anonymous anti-sybil protocol]]></title>
+            <description><![CDATA[<article><h1>The Proof-of-Individuality (POI) protocol is a fully anonymous anti-sybil protocol</h1><p>Pseudonym parties are based on the fact that you cannot be in two places at once. Global pseudonym party events happen in synchrony, simultaneously all over the world, and are scheduled continuously throughout the year. The earliest reference I've found for the protocol is by Bryan Ford in 2007, http://www.brynosaurus.com/log/2007/0327-PseudonymParties.pdf It's based on Bryan Ford's pseudonym [...]</p><img src="http://i.imgur.com/uMgUFAF.jpg"></article>]]></description>
+            <link>https://bitnation.co/blog/the-proof-of-individuality-poi-protocol-is-a-fully-anonymous-anti-sybil-protocol/</link>
+            <guid isPermaLink="false">3ad95f13-a3aa-4ca0-98d1-d3bd9e7da813</guid>
+            <pubDate>Mon, 28 Mar 2016 18:46:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&quot;most robust&quot; @MyBitNation ID card ever are ready! Power to the BITNATION!" src="https://pbs.twimg.com/media/Cef8CDwWsAAilip.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=YpSeOU1VVj4</link>
             <guid isPermaLink="false">734a50ae-c72d-47dc-9ba7-bd28fd15ba4b</guid>
             <pubDate>Sat, 05 Mar 2016 02:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Blockchain Could Change Everything for the Legal Vertical]]></title>
-            <description><![CDATA[<article><h1>How the Blockchain Could Change Everything for the Legal Vertical</h1><p>In the future, we may see disputes over assets decided in transnational digital arbitration in virtual jurisdictions like BitNation, a “virtual nation" that provides nation-state services via the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa6c98408500602f94ec37d1fb63a1c14e41c7.ashx"></article>]]></description>
-            <link>http://www.channelpartnersonline.com/blogs/peertopeer/2016/03/how-bitcoin-could-change-everything-for-the-legal.aspx</link>
-            <guid isPermaLink="false">9aaadb2c-fdb3-44b5-8f82-2e75ef5c9df0</guid>
-            <pubDate>Sat, 05 Mar 2016 02:50:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
